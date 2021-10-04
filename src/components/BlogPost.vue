@@ -15,8 +15,8 @@ export default {
     title: String,
     postText: String,
     author: String,
-    createdDate: Date
-  }
+    createdDate: Date,
+  },
 };
 </script>
 <style>

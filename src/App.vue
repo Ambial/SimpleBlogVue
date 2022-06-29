@@ -5,10 +5,10 @@
 </template>
 
 <script>
-import BlogPage from "./components/BlogPage.vue";
+import BlogPage from './components/BlogPage.vue';
 
 export default {
-  name: "App",
+  name: 'App',
   components: {
     BlogPage,
   },

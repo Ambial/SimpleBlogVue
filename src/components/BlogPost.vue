@@ -10,7 +10,7 @@
 
 <script>
 export default {
-  name: "BlogPost",
+  name: 'BlogPost',
   props: {
     title: String,
     postText: String,

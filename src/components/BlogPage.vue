@@ -1,3 +1,4 @@
+/* eslint-disable max-len */
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
@@ -10,10 +11,10 @@
   </div>
 </template>
 <script>
-import BlogPost from "./BlogPost.vue";
+import BlogPost from './BlogPost.vue';
 
 export default {
-  name: "BlogPage",
+  name: 'BlogPage',
   components: {
     BlogPost,
   },
